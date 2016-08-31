@@ -1,0 +1,20 @@
+{
+  "name": "markdown-spreadsheet",
+  "main": "./lib/markdown-spreadsheet",
+  "version": "0.0.0",
+  "description": "Spreadsheet with markdown",
+  "keywords": [],
+  "repository": "https://github.com/klorenz/markdown-spreadsheet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "author": "Kay-Uwe (Kiwi) Lorenz <kiwi@franka.dyndns.org>",
+  "dependencies": {
+    "gray-matter": "^2.0.2",
+    "handlebars": "^4.0.5",
+    "handlebars-helpers": "^0.7.5",
+    "just-handlebars-helpers": "^1.0.11",
+    "loophole": "^1.1.0"
+  }
+}
