@@ -1,7 +1,7 @@
 {
   "name": "markdown-spreadsheet",
   "main": "./lib/markdown-spreadsheet",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Spreadsheet with markdown",
   "keywords": [],
   "repository": "https://github.com/klorenz/markdown-spreadsheet",
